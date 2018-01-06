@@ -4,7 +4,7 @@ Curated list of awesome open-source tools for converting between file formats.
 Tools that are fundamentally command-line oriented are marked via `[CLI]`.
 
 ## Documents, presentations and spreadsheets
-- [libreoffice](https://www.libreoffice.org) - Support for `.odt`,`.odp`,`.ods` and [other formats](https://help.libreoffice.org/Common/XML_File_Formats), and export/import `.pdf` (*out-of-scope exception*: MS Word import of `.pdf` is also worth a try, if available). - Mostly GUI, but has some CLI support, see [1](https://help.libreoffice.org/Common/Starting_the_Software_With_Parameters), example: `libreoffice --convert-to pdf *.doc`
+- [libreoffice](https://www.libreoffice.org) - Support for `.odt`,`.odp`,`.ods` and [other formats](https://help.libreoffice.org/Common/XML_File_Formats), and export/import `.pdf` (*out-of-scope exception*: MS Word import of `.pdf` is also worth a try, if available). - Mostly GUI - Has some CLI support, see [1](https://help.libreoffice.org/Common/Starting_the_Software_With_Parameters), example: `libreoffice --convert-to pdf *.doc`
 - [ods2md](https://github.com/kennytm/ods2md) `[CLI]` - Example: `ods2md.py input_file.ods > output_file.md`
 
 ## Images (Pictures)
