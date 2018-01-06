@@ -1,7 +1,7 @@
 # awesome-file-conversion
 Curated list of awesome open-source tools for converting between file formats.
 
-All tools with command-line capabilities, which does not exclude GUI capabilities, are marked via `[CLI]`.
+Tools with command-line capabilities, which does not exclude GUI capabilities, are marked via `[CLI]`.
 
 ## Documents, presentations and spreadsheets
 - [libreoffice](https://www.libreoffice.org) - Support for `.odt`,`.odp`,`.ods` and [other formats](https://help.libreoffice.org/Common/XML_File_Formats), and export/import `.pdf` (*out-of-scope exception*: MS Word import of `.pdf` is also worth a try, if available).
