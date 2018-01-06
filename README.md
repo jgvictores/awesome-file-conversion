@@ -20,10 +20,12 @@ Tools that are fundamentally command-line oriented are marked via `[CLI]`.
     ```bash
     lame sample.wav sample.mp3
     ```
+
 - [timidity](https://man.cx/timidity(1)) `[CLI]` - MIDI−to−WAVE converter and player
     ```bash
     timidity -Ow name.mid
     ```
+
 - [tuxguitar](https://sourceforge.net/projects/tuxguitar) - Support for `.gp5`,`.tuxguitar`, and exports to `.ly`,`.midi`,`.xml`...
 - [vlc](https://www.videolan.org) `[CLI]` - Converts between audio and video formats, even video to audio or images. Large support of different formats: `.acc`,`.mp3`,`.mp4`... - GUI usage: click on `Media`->`Convert / Save...`. - CLI usage is complex, see [1](https://wiki.videolan.org/VLC_command-line_help),[2](https://wiki.videolan.org/VLC_HowTo/Transcode_multiple_videos/),[3](https://superuser.com/questions/388511/how-can-i-make-the-following-conversion-in-vlc-from-the-commandline),[4](https://forum.videolan.org/viewtopic.php?f=4&t=101724) for starters. A "simple" example:
     ```bash
