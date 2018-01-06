@@ -1,9 +1,9 @@
 # awesome-file-conversion
-Curated list of awesome tools for converting between file formats.
+Curated list of awesome open-source tools for converting between file formats.
 
 All tools with command-line capabilities, which does not exclude GUI capabilities, are marked via `[CLI]`.
 
-## Audio
+## Multimedia (Audio and Video)
 - [lame](https://linux.die.net/man/1/lame) `[CLI]` - `lame sample.wav sample.mp3`
 
 ## Spreadsheets
