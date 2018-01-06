@@ -13,4 +13,5 @@ All tools with command-line capabilities, which does not exclude GUI capabilitie
 ## Multimedia (Audio and Video)
 - [lame](https://man.cx/lame(1)) `[CLI]` - `lame sample.wav sample.mp3`
 - [timidity](https://man.cx/timidity(1)) `[CLI]` - `timidity -Ow name.mid`
+- [tuxguitar](https://sourceforge.net/projects/tuxguitar) - Support for `.gp5`,`.tuxguitar`, and exports to `.ly`,`.midi`,`.xml`...
 - [vlc](https://www.videolan.org) - Converts between audio and video formats, even video to audio. Large support of different formats: `.acc`,`.mp3`,`.mp4`... - GUI usage: click on `Media`->`Convert / Save...`.
