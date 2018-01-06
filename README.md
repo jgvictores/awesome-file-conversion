@@ -4,7 +4,7 @@ Curated list of awesome open-source tools for converting between file formats.
 All tools with command-line capabilities, which does not exclude GUI capabilities, are marked via `[CLI]`.
 
 ## Images (Pictures)
-- [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif' ... - GUI usage: Open, then `Shift`+`Ctrl`+`E` or `File`->`Export as...` (format will be given by extension, not dropdown selection). 
+- [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift`+`Ctrl`+`E` or `File`->`Export as...` (format will be given by extension, not dropdown selection). 
 - [inkscape]()
 
 ## Multimedia (Audio and Video)
