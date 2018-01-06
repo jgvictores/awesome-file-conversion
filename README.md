@@ -7,7 +7,8 @@ All tools with command-line capabilities, which does not exclude GUI capabilitie
 - [ods2md](https://github.com/kennytm/ods2md) `[CLI]` - `ods2md.py input_file.ods > output_file.md`
 
 ## Images (Pictures)
-- [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift+Ctrl+E` or `File`->`Export as...` (format will be given by extension, not dropdown selection). 
+- [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift+Ctrl+E` or `File`->`Export as...` (format will be given by extension, not dropdown selection).
+- [imagemagick](https://www.imagemagick.org) `[CLI]` - `magick image.jpg image.png`
 - [inkscape](https://inkscape.org) - Large support of different vector formats: `.svg`,`.emf`...
 
 ## Multimedia (Audio and Video)
