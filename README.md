@@ -1,5 +1,6 @@
 # awesome-file-conversion
 Curated list of awesome tools for converting between file formats.
+
 All tools with command-line capabilities, which does not exclude GUI capabilities, are marked via `[CLI]`.
 
 ## Audio
