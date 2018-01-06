@@ -8,7 +8,7 @@ Tools that are fundamentally command-line oriented are marked via `[CLI]`.
 - [ods2md](https://github.com/kennytm/ods2md) `[CLI]` - Example: `ods2md.py input_file.ods > output_file.md`
 
 ## Images (Pictures)
-- [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift+Ctrl+E` or `File`->`Export as...` (format will be given by extension, not dropdown selection). - CLI usage is complex, see [1](https://www.gimp.org/tutorials/Basic_Batch/). Esentially, LISP-like [GIMP Script-Fu](https://docs.gimp.org/en/gimp-using-script-fu-tutorial.html) must be written.
+- [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift+Ctrl+E` or `File`->`Export as...` (format will be given by extension, not dropdown selection). - CLI usage is complex, see [1](https://www.gimp.org/tutorials/Basic_Batch/). Esentially, LISP-like [GIMP Script-Fu](https://docs.gimp.org/en/gimp-using-script-fu-tutorial.html) (a dialect of Scheme) must be written.
 - [imagemagick](https://www.imagemagick.org) `[CLI]` tools - Example: `magick image.jpg image.png` according to [official documentation](http://www.imagemagick.org/script/command-line-processing.php), but in Ubuntu use commands from [graphicsmagick-imagemagick-compat](https://packages.ubuntu.com/xenial/all/graphicsmagick-imagemagick-compat/filelist), example: `convert image.jpg image.png`
 - [inkscape](https://inkscape.org) - Large support of different vector formats: `.svg`,`.emf`... and interface with bitmap formats. - Mostly GUI. - Has CLI support, see [1](https://inkscape.org/sk/doc/inkscape-man.html), example: `inkscape filename.svg --export-png=filename.png`
 
