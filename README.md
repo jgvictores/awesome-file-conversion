@@ -8,7 +8,7 @@ Tools with command-line capabilities, which does not exclude GUI capabilities, a
 - [ods2md](https://github.com/kennytm/ods2md) `[CLI]` - `ods2md.py input_file.ods > output_file.md`
 
 ## Images (Pictures)
-- [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift+Ctrl+E` or `File`->`Export as...` (format will be given by extension, not dropdown selection).
+- [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift+Ctrl+E` or `File`->`Export as...` (format will be given by extension, not dropdown selection). - CLI usage is complex, see [1](https://www.gimp.org/tutorials/Basic_Batch/).
 - [imagemagick](https://www.imagemagick.org) `[CLI]` - `magick image.jpg image.png` according to [official documentation](http://www.imagemagick.org/script/command-line-processing.php), but in Ubuntu use commands from [graphicsmagick-imagemagick-compat](https://packages.ubuntu.com/xenial/all/graphicsmagick-imagemagick-compat/filelist): `convert image.jpg image.png`
 - [inkscape](https://inkscape.org) - Large support of different vector formats: `.svg`,`.emf`...
 
