@@ -9,7 +9,7 @@ Tools that are fundamentally command-line oriented are marked via `[CLI]`.
 
 ## Images (Pictures)
 - [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift+Ctrl+E` or `File`->`Export as...` (format will be given by extension, not dropdown selection). - CLI usage is complex, see [1](https://www.gimp.org/tutorials/Basic_Batch/).
-- [imagemagick](https://www.imagemagick.org) `[CLI]` tools - `magick image.jpg image.png` according to [official documentation](http://www.imagemagick.org/script/command-line-processing.php), but in Ubuntu use commands from [graphicsmagick-imagemagick-compat](https://packages.ubuntu.com/xenial/all/graphicsmagick-imagemagick-compat/filelist), Example: `convert image.jpg image.png`
+- [imagemagick](https://www.imagemagick.org) `[CLI]` tools - Example: `magick image.jpg image.png` according to [official documentation](http://www.imagemagick.org/script/command-line-processing.php), but in Ubuntu use commands from [graphicsmagick-imagemagick-compat](https://packages.ubuntu.com/xenial/all/graphicsmagick-imagemagick-compat/filelist), example: `convert image.jpg image.png`
 - [inkscape](https://inkscape.org) - Large support of different vector formats: `.svg`,`.emf`...
 
 ## Multimedia (Audio and Video)
