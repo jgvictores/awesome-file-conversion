@@ -4,11 +4,8 @@ Curated list of awesome open-source tools for converting between file formats.
 Tools that are fundamentally command-line oriented are marked via `[CLI]`.
 
 ## Documents, presentations and spreadsheets
-- [libreoffice](https://www.libreoffice.org) - Support for `.odt`,`.odp`,`.ods` and [other formats](https://help.libreoffice.org/Common/XML_File_Formats), and export/import `.pdf` (*out-of-scope exception*: MS Word import of `.pdf` is also worth a try, if available). - Mostly GUI, but has some CLI support, see [1](https://help.libreoffice.org/Common/Starting_the_Software_With_Parameters):
-    ```bash
-    libreoffice--convert-to pdf *.doc
-    ```
-- [ods2md](https://github.com/kennytm/ods2md) `[CLI]` - `ods2md.py input_file.ods > output_file.md`
+- [libreoffice](https://www.libreoffice.org) - Support for `.odt`,`.odp`,`.ods` and [other formats](https://help.libreoffice.org/Common/XML_File_Formats), and export/import `.pdf` (*out-of-scope exception*: MS Word import of `.pdf` is also worth a try, if available). - Mostly GUI, but has some CLI support, see [1](https://help.libreoffice.org/Common/Starting_the_Software_With_Parameters): `libreoffice--convert-to pdf *.doc`
+- [ods2md](https://github.com/kennytm/ods2md) `[CLI]` - CLI usage: `ods2md.py input_file.ods > output_file.md`
 
 ## Images (Pictures)
 - [gimp](https://www.gimp.org) - Large support of different bitmap formats: `.bmp`,`.jpg`,`.png`,`.tif` ... - GUI usage: Open, then `Shift+Ctrl+E` or `File`->`Export as...` (format will be given by extension, not dropdown selection). - CLI usage is complex, see [1](https://www.gimp.org/tutorials/Basic_Batch/).
